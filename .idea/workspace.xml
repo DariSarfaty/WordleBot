@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc3d18f6-d7b3-4e5f-b5b5-bc2d861b31f2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/WordleBot.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="fc3d18f6-d7b3-4e5f-b5b5-bc2d861b31f2" name="Changes" comment="works!" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,7 +33,8 @@
   "keyToString": {
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/daris/PycharmProjects/WordleBot/.venv"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -59,6 +53,19 @@
       <option name="presentableId" value="Default" />
       <updated>1735394755569</updated>
     </task>
+    <task id="LOCAL-00001" summary="works!">
+      <option name="closed" value="true" />
+      <created>1735398258289</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1735398258289</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="works!" />
+    <option name="LAST_COMMIT_MESSAGE" value="works!" />
   </component>
 </project>
